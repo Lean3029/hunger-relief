@@ -1,0 +1,192 @@
+Event Management System
+
+FEATURES
+
+DASHBOARD
+- admin login
+- admin can add/delete/update/edit an event
+- admin can approve an event
+- in the dashboard we can see a calendar that shows the events.
+- admin can see the list of users (student/staff)
+- admin will be notified if their is a request
+- admin can create reservation
+
+FRONT 
+- account creation for student/staff and login 
+- student/staff can request a reservation for an event
+- student will be notified if the request is approved or not
+
+
+###########################################################
+
+Group of Jeverlyn
+
+DROP ZONE
+
+FRONT (dropping area)
+
+DROPING AREA
+- account registration/login droping area
+  -> business permit, name of the stablishment, 
+- add products, details of seller, picture of item, picture of shop, receiver, price, fee for dropping area and if the item is not picked within 3 days, 5 pesos penalty per day.
+- show status of the product (pickup, for pickup)
+- the dropping can send link to seller to view the status of product
+
+DASHBOARD
+- login of admin 
+- notify and the admin will approve the registration of dropping area
+- show all dropping area
+- show all the products status( for pickup, etc..)
+
+
+###########################################################
+
+HUNGERELIEF
+
+front
+- basic website
+- page to advertise food donation and money donation 
+- page to invite volunteers
+- page to show events
+
+dashboard-front
+- register (fill up basic information) and can update his basic information
+- the user(donator) can view all his donations (money or food)
+- can apply for volunteer, and show and can register to an event to be a volunteer.
+
+dashboard-admin
+- delete,show donators, 
+- per donators show all the information about their donations()
+- add events (picture, title of event) and show all volunteers
+
+
+###########################################################
+
+GROUP OF Acoking
+
+Feedback and Evaluation
+
+admin
+- admin login
+- creates/edit/delete an evaluation form
+- admin will add teacher, and their handled subject and student
+  - student_id, name, emailaddress, 1sem/2sem, instructor, subject
+- admin will create a student account using student_id and generate password.
+- rating of intructor per subject.
+- show all feedback of teachers per subject
+
+front end
+- student login 
+  -> student_id , password
+  -> students need to reset the password
+- student will evaluate their teacher per subject. valuation is not editable
+- student can add feedback to their teachers.
+
+###########################################################
+
+Tutor and Mentorship Web Application
+
+ADMIN
+- Log-In
+- delete instructor, delete student
+- show all students tutorial session and status
+- show all instructor tutorial session and status
+- the admin will approve the tutorial session created by instructor
+
+INSTRUCTOR
+- Sign-Up / Log-In
+- Create tutorial session
+  -> set how many student to cater
+  -> details of the tutorial session (schedule, online/f2f, rate per hour, etc)
+  -> approve the request student 
+  -> show the feedback of students
+
+STUDENT
+- Sign-Up / Log-In
+- can apply in the session, send payment by adding reference number. 
+- can send feedback to instructor
+
+
+###########################################################################
+GROUP OF Polled
+
+Front
+- sign in using gmail and review a tourist spot,
+- pages (home, contact, blogs, tourist spot, reviews is based on the reviewer, accommodation per barangay)
+
+
+Dashboard
+- admin login
+- show all reviews per tourist spot
+- add/edit/delete tourist spot
+- add/edit/delete blogs
+- add/edit/delete contact information
+- add/edit/delete accommodation
+
+###########################################################################
+
+GROUP of Nacnas
+
+KCP Quiz and Assignment Management
+
+Admin
+- login in website
+- approve the request of account creation of teacher
+
+Student
+- register&login in website and he/she will add the Subject/Teachers Code to join in the class. 
+- using link student can join class
+- can view and answer their quiz. view result of quiz
+
+Teacher
+- can create multiple choice exam/quiz
+ -> items quiz, 
+- delete students per subject.
+- show all students and their score per subjects
+- can send link to invite student or use the subject code per subject 
+
+################################################################
+
+Group of Dulagan
+
+Canteen Point of Sale
+
+Admin
+- login in the dashboard
+- Add/Edit/Delete/View/Search Product (prod name, price)
+- Add/Edit/Delete/View/Search Cashier
+- Create Sale (Billing & Transaction)
+- Print a receipt of transaction
+- View Transaction History
+
+Cashier
+- login
+- Create Sale (Billing & Transaction)
+- Print a receipt of transaction
+- View Transaction History
+
+
+################################################################
+
+HouseHunt: Affordable Housing Search
+
+House Searcher
+- create/login in the website/dashboard
+- search house that is available
+- request reservation for the room 
+
+Landlord
+- create/login in the website/dashboard
+- post their house for rent (pictures, location, and etc...)
+- create/edit/delete room for rent
+- approve reservation 
+
+Admin
+- login in the dashboard
+- approve request of landlord
+
+
+
+
+
+
